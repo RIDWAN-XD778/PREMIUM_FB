@@ -14,12 +14,12 @@
        $ pip install rich
        $ pip install bs4
             
-<h3 align="left">Cara Menjalankan Script :</h3>
+<h3 align="left">untuk menjalankan ikuti printah² ini↓:</h3>
        
        $ git clone https://github.com/RIDWAN-XD778/PREMIUM_FB
-       $ cd fb_prem
+       $ cd ridwan
        $ git pull
-       $ python fb_prem.py
+       $ python ridwan.py
 
 <h3 align="left">Harga License :</h3>
 
@@ -28,7 +28,6 @@
 - 1 Bulan    : 75k
 
 - Permanent + Open Source : 150k
-- buy lisen di https://wa.me/6283862287464
 
 <h3 align="left">Contack with me :</h3>
 
