@@ -17,7 +17,7 @@
 <h3 align="left">untuk menjalankan ikuti printah² ini↓:</h3>
        
        $ git clone https://github.com/RIDWAN-XD778/PREMIUM_FB
-       $ cd ridwan
+       $ cd PREMIUM_FB
        $ git pull
        $ python ridwan.py
 
